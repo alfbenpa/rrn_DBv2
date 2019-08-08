@@ -1,7 +1,7 @@
 # rrn_DBv2
 Updated rrn database (version 2.0)
 
-This repository contains information related with the publication entitled: Benítez-Páez A et al. Strand-wise and bait-assisted assembly of nearly-full rrn operons using nanopore sequencing data and its application to assess the species engraftment during faecal microbiota transplantation. 2019.
+This repository contains information related with the publication entitled: Benítez-Páez A et al. Strand-wise and bait-assisted assembly of nearly-full rrn operons and its application to assess species engraftment after faecal microbiota transplantation. 2019.
 
 File description:
 
