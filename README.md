@@ -1,7 +1,7 @@
 # rrn_DBv2
 Updated rrn database (version 2.0)
 
-This repository contains information related with the publication entitled: Benítez-Páez A et al. Strand-wise and bait-assisted assembly of nearly-full rrn operons and its application to assess species engraftment after faecal microbiota transplantation. 2019.
+This repository contains information related with the publication entitled: Benítez-Páez A, Hartstra AV, Nieuwdorp M, Sanz Y. Species- and strain-level assessment using rrn long-amplicons suggests donor's influence on gut microbial transference via fecal transplants in metabolic syndrome subjects. Gut Microbes. 2022;14(1):2078621. doi: 10.1080/19490976.2022.2078621.
 
 File description:
 
